@@ -15,10 +15,10 @@ Responsive Design: Access and manage your tasks on any device, from desktop to m
 Technologies Used
 -----------------
 Frontend: Built using React.js for a fast and dynamic user interface.
-State Management: Utilizes React Hooks and Context API for efficient state management.
+
 Styling: Styled with Tailwind CSS for a modern and responsive design.
-Icons: Icons provided by Heroicons for a sleek and consistent visual experience.
-Persistence: Tasks are stored locally in the browser using Local Storage, ensuring your data is retained even after refreshing the page.
+
+Icons: Icons provided by Fevicon-ok for a sleek and consistent visual experience.
 
 Installation
 ------------
