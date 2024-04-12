@@ -24,17 +24,29 @@ Installation
 ------------
 Clone the repository to your local machine.
 
+
+
+
+
 Navigate to the project directory.
 
 bash
 
 cd todo-list-app
 
+
+
+
+
 Install dependencies using npm.
 
 bash
 
 npm install
+
+
+
+
 
 Start the development server.
 
